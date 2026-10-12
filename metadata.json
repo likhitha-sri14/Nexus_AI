@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS AI",
+  "description": "A high-performance conversational AI assistant powered by Gemini 3.8 Flash, featuring multi-turn chat, specialized assistant modes, document analysis, and streaming responses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
